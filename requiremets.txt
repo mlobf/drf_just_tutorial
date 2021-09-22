@@ -1,0 +1,5 @@
+django==2.2.18
+djangorestframework
+autopep8
+ipython
+pylint
